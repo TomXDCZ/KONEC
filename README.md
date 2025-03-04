@@ -1,2 +1,2 @@
 # KONEC
-klikni na README.md
+klikni na konec.md
